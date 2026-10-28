@@ -1,0 +1,10 @@
+# .gitignore
+*.tmp
+*.temp
+*.log
+*.bak
+scratch/
+__pycache__/
+.cache/
+.vscode/
+.idea/
