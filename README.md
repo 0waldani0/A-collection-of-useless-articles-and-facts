@@ -10,6 +10,7 @@
 ### Статьи (`articles/`)
 - [Доказательство и реализация синтаксических деревьев Хомского (CNF) в гипервекторных пространствах (HDC/VSA)](articles/chomsky_trees_in_hypervectors.md)
 - [Опровержение мифа об исключительности LLM: почему альтернативные архитектуры ИИ конкурируют с LLM и превосходят их](articles/ai_beyond_llm_competitors_and_superiority.md)
+- [Верификация проблемы P vs NP: барьеры сложности, фазовые переходы и алгоритмы подклассов](articles/p_vs_np_barriers_and_phase_transitions.md)
 
 ### Проверенные факты (`facts/`)
 - [Голографическое сжатие бинарных деревьев Хомского в единый гипервектор](facts/vsa_chomsky_hierarchy_capacity.md)
